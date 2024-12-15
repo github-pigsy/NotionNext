@@ -324,7 +324,7 @@ const BLOG = {
       artist: '纯音乐',
       url: 'https://pan.mengde.org/s/ocXg75ia2ZmezHy/download/small-river-2-22987.mp3',
       cover:
-        'null'
+        'https://s3.bmp.ovh/imgs/2024/12/15/c74852d1dcd38667.webp'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
