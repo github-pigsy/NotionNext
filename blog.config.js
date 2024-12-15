@@ -313,7 +313,7 @@ const BLOG = {
     {
       name: '陈一发-童话镇',
       artist: '陈一发',
-      url: 'https://pan.mengde.org/s/EfcFLjW2JLwqzLP',
+      url: 'https://pan.mengde.org/s/EfcFLjW2JLwqzLP/download/%E9%99%88%E4%B8%80%E5%8F%91%E5%84%BF%20-%20%E7%AB%A5%E8%AF%9D%E9%95%87.mp3',
       cover:
         'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
