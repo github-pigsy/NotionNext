@@ -315,7 +315,7 @@ const BLOG = {
       artist: '陈一发',
       url: 'https://pan.mengde.org/s/EfcFLjW2JLwqzLP/download/%E9%99%88%E4%B8%80%E5%8F%91%E5%84%BF%20-%20%E7%AB%A5%E8%AF%9D%E9%95%87.mp3',
       cover:
-        'null'
+        'https://i.scdn.co/image/ab67616d0000b27307edf9e9a545520bd0ccb737'
     },
     {
       name: '纯音乐',
