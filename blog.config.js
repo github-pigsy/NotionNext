@@ -320,11 +320,11 @@ const BLOG = {
     }, 
     */
     {
-      name: '纯音乐',
-      artist: '纯音乐',
-      url: 'https://pan.mengde.org/s/ocXg75ia2ZmezHy/download/small-river-2-22987.mp3',
+      name: 'Castle in the sky',
+      artist: '天空之城',
+      url: 'https://pan.mengde.org/s/JboFyX9fjSfpL97/download/%E7%BB%8F%E5%85%B8%E7%BA%AF%E9%9F%B3%E4%B9%90%E3%80%8A%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8ECastle%20in%20the%20sky%E3%80%8B%E9%92%A2%E7%90%B4%E6%BC%94%E5%A5%8F%E7%89%88%20%E3%80%90QianMusic%E3%80%91_2.mp3',
       cover:
-        'https://s3.bmp.ovh/imgs/2024/12/15/c74852d1dcd38667.webp'
+        'null'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
