@@ -324,7 +324,7 @@ const BLOG = {
       artist: '天空之城',
       url: 'https://imageuploadeross.oss-cn-beijing.aliyuncs.com/image/%E7%BB%8F%E5%85%B8%E7%BA%AF%E9%9F%B3%E4%B9%90%E3%80%8A%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8ECastle%20in%20the%20sky%E3%80%8B%E9%92%A2%E7%90%B4%E6%BC%94%E5%A5%8F%E7%89%88%20%E3%80%90QianMusic%E3%80%91_2.mp3',
       cover:
-        'null'
+        'https://imageuploadeross.oss-cn-beijing.aliyuncs.com/image/hub-5965312_640.jpg'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
